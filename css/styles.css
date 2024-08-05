@@ -1,0 +1,97 @@
+h1 {
+  text-align: center;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 3px;
+  color: chocolate;
+  font-family: cursive;
+}
+
+h2 {
+  text-align: center;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 2px;
+  font-size: 50px;
+  color: gray;
+}
+
+h4 {
+  text-align: center;
+  color: white;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+  font-size: 35px;
+
+}
+
+h5 {
+  text-align: center;
+  font-size: 30px;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+  color: gray;
+  font-family:sans-serif;
+}
+
+body {
+  background-image: url(https://media.istockphoto.com/id/1400974557/vector/knitting-seamless-pattern-vector-background-with-knitted-woolen-fabric-in-light-color.jpg?s=612x612&w=0&k=20&c=k2MQPbcBIHAQjnlsPuvc46pf4mXi8E8WsYVOvacn2JU=);
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border: 5px double black;
+  border-width: 10px;
+}
+
+.treat {
+  -webkit-text-stroke-color: chocolate;
+  -webkit-text-stroke-width: 2.5px;
+  font-family:sans-serif;
+  color: white;
+}
+
+.ingredients {
+  font-size: 24px;
+  color: darkslateblue;
+}
+
+.instructions {
+  color: darkslategrey;
+}
+
+.heading {
+  text-decoration-line: underline;
+  font-family:
+}
+
+.step {
+  color: gold;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1.5px;
+  font-family: fantasy;
+  font-weight: bold;
+  font-style:italic;
+}
+
+.link {
+  text-align: center;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+  color: lightslategray;
+  font-size: 30px;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+.me {
+  color: black;
+  font-family: fantasy;
+  -webkit-text-stroke-color: rebeccapurple;
+  -webkit-text-stroke-width: 1px;
+  font-size: 24px;
+}
+
